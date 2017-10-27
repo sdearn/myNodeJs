@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/buffer.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/callback.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/event.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eventLoop.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/input.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stream.js" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
